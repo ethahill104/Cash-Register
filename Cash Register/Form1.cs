@@ -83,7 +83,7 @@ namespace Cash_Register
             double numberOf3 = Convert.ToInt16(textBox2.Text);
             double numberOf4 = Convert.ToInt16(textBox4.Text);
            
-
+            //g
 
             double totalCostOfOrder;
             totalCostOfOrder = itemPrice1 * numberOf1 + itemPrice2 * numberOf2 + itemPrice3 * numberOf3 + itemPrice4 * numberOf4;
